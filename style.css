@@ -81,6 +81,17 @@ main section:not(:last-child) {
   text-align: center;
 }
 
+.fas {
+  border: 1px solid white;
+  border-radius: 60%;
+  font-size: 1.5em;
+  width: 1.5em;
+  height: 1.5em;
+  line-height: 1.5em;
+  margin: 5px;
+  text-align: center;
+}
+
 .fa {
   border: 1px solid white;
   border-radius: 60%;
